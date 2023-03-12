@@ -1,0 +1,30 @@
+{
+  "name": "greeztream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelkolo/GreeZtream.git"
+  },
+  "author": "Axel Kolo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axelkolo/GreeZtream/issues"
+  },
+  "homepage": "https://github.com/axelkolo/GreeZtream#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.21",
+    "path": "^0.12.7",
+    "streamifier": "^0.1.1"
+  }
+}
